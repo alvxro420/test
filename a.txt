@@ -1,3 +1,5 @@
+! Title: Test Adblock
+
 p3dm.ru##.no-adb-1
 www.instagram.com##._a9z6._a9za
 fssquad.com##body:remove-class(samAdBlockDetected)
