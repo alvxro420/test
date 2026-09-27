@@ -1,0 +1,25 @@
+p3dm.ru##.no-adb-1
+www.instagram.com##._a9z6._a9za
+fssquad.com##body:remove-class(samAdBlockDetected)
+fssquad.com##body:style(background-color: transparent !important; opacity: 1 !important;)
+br.pinterest.com##.H2DtUH.KwViV7.FE_3R1.KDGhSV._tKaHB.drGcEU.qtP9fl.wl0pCr
+trello.com###island-nav
+@@||tlauncher.org^$first-party
+www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(4)
+www.youtube.com###guide-links-primary
+www.youtube.com###guide-links-secondary
+www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(5)
+www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(6)
+@@||flingtrainer.io^$first-party
+pfps.gg/##+js(aost, document.getElementById, adsBlocked)
+pfps.gg##+js(nowoif)
+pfps.gg##+js(aopr, App.checkIfUserStinky)
+pfps.gg##div#smellcheck
+pfps.gg##body:style(overflow: auto !important)
+leakgallery.com##+js(nowoif)
+leakgallery.com##+js(aopr, window.open)
+leakgallery.com##+js(aeld, click, videoslider)
+leakgallery.com##+js(aeld, mousedown, videoslider)
+leakgallery.com##+js(aeld, touchstart, videoslider)
+||api.leakgallery.com/r/i^
+||api.leakgallery.com/r/*
