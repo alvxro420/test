@@ -25,3 +25,4 @@ leakgallery.com##+js(aeld, mousedown, videoslider)
 leakgallery.com##+js(aeld, touchstart, videoslider)
 ||api.leakgallery.com/r/i^
 ||api.leakgallery.com/r/*
+||predictivadnetwork.com^$all
