@@ -13,7 +13,7 @@ www.youtube.com###guide-links-secondary
 www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(5)
 www.youtube.com##ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-of-type(6)
 @@||flingtrainer.io^$first-party
-pfps.gg/##+js(aost, document.getElementById, adsBlocked)
+pfps.gg##+js(aost, document.getElementById, adsBlocked)
 pfps.gg##+js(nowoif)
 pfps.gg##+js(aopr, App.checkIfUserStinky)
 pfps.gg##div#smellcheck
